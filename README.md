@@ -32,6 +32,7 @@ Follow [official setup instructions](http://docs.docker.com/installation/windows
 When pulling or running an this container you can select which version of Libsass you want to use. The currently supported versions are:
 
 - 3.1.0
+- 3.2.0-beta.5
 
 ## Usage
 
