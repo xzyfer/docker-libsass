@@ -4,10 +4,10 @@
 apk --update add git build-base
 git clone https://github.com/sass/sassc
 cd sassc
-git checkout 3.2.0-beta.5
+git checkout $SASSC_VERSION
 git clone https://github.com/sass/libsass
 cd libsass
-git checkout 3.2.0-beta.5
+git checkout $LIBSASS_VERSION
 cd ..
 SASS_LIBSASS_PATH=/sassc/libsass make
 
