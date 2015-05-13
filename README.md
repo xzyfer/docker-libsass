@@ -33,6 +33,8 @@ When pulling or running an this container you can select which version of Libsas
 
 - 3.1.0
 - 3.2.0-beta.5
+- 3.2.0-beta.6
+- 3.2.4
 
 ## Usage
 
